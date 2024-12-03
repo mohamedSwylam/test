@@ -1,6 +1,6 @@
 # test
 
-A new Flutter project.
+i implemt project help us how to empower your flutter application with Speech Recognition feature using which user can convert his speak in to text in your flutter application i used cubt as astatmengment and get it dependency injection.
 
 ## Getting Started
 
